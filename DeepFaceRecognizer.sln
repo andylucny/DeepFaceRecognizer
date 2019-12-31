@@ -1,0 +1,24 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{3E178AA4-FD08-4A50-AE12-04F817ED1677}") = "DeepFaceRecognizer", "DeepFaceRecognizer.vcxproj", "{A0DDAF86-13EE-41EA-B196-52988BC35EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0DDAF86-13EE-41EA-B196-52988BC35EC3}.Release|x64.ActiveCfg = Release|x64
+		{A0DDAF86-13EE-41EA-B196-52988BC35EC3}.Release|x64.Build.0 = Release|x64
+		{A0DDAF86-13EE-41EA-B196-52988BC35EC3}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DADBAF31-2A31-495C-B4B4-8BEF0A1CFEC8}
+	EndGlobalSection
+EndGlobal
